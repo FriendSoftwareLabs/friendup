@@ -1,0 +1,20 @@
+
+#Banner
+{
+    background: #232425;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 120px;
+}
+
+#Categories
+{
+    position: absolute;
+    top: 120px;
+    left: 0;
+    width: 100%;
+    height: calc(100% - 120px);
+}
+
